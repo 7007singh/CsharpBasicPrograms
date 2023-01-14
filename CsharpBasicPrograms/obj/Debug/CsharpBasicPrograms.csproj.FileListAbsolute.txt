@@ -1,0 +1,8 @@
+C:\Users\Shweta\source\repos\CsharpBasicPrograms\CsharpBasicPrograms\obj\Debug\CsharpBasicPrograms.csproj.AssemblyReference.cache
+C:\Users\Shweta\source\repos\CsharpBasicPrograms\CsharpBasicPrograms\obj\Debug\CsharpBasicPrograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shweta\source\repos\CsharpBasicPrograms\CsharpBasicPrograms\obj\Debug\CsharpBasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Shweta\source\repos\CsharpBasicPrograms\CsharpBasicPrograms\bin\Debug\CsharpBasicPrograms.exe.config
+C:\Users\Shweta\source\repos\CsharpBasicPrograms\CsharpBasicPrograms\bin\Debug\CsharpBasicPrograms.exe
+C:\Users\Shweta\source\repos\CsharpBasicPrograms\CsharpBasicPrograms\bin\Debug\CsharpBasicPrograms.pdb
+C:\Users\Shweta\source\repos\CsharpBasicPrograms\CsharpBasicPrograms\obj\Debug\CsharpBasicPrograms.exe
+C:\Users\Shweta\source\repos\CsharpBasicPrograms\CsharpBasicPrograms\obj\Debug\CsharpBasicPrograms.pdb
